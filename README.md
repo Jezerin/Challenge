@@ -1,6 +1,9 @@
 # Challenge
 Code proposal for challenge
 
+Funcionamiento
+Ejecutar main para correr el programa. Es posible crear instancias adicionales de usuario que hagan request al elevador, una vez creadas, agragarlas a la lista llamada users.
+
 Análisis del problema
 
 
